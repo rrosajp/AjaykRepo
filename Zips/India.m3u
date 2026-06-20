@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="News",Pudhari News
 plugin://plugin.video.youtube/play/?video_id=51AXaLmTAf0
-#EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
-https://yuppmumfta1.vgcdn.net/fta/jaimaharashtra/chunks.m3u8
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/saamtv/2021-06/147be8c3-59eb-4715-92db-47de06f2f545/saamtv_logo.png" group-title="News",SAAM Marathi
-plugin://plugin.video.youtube/play/?video_id=SvyoyFAiIDI
+plugin://plugin.video.youtube/play/?video_id=13kXfFlfUdQ
 #https://live.wmncdn.net/saam/live.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.jaimaharashtranews.com/wp-content/uploads/2021/03/JM_LOGO-1-1.jpg" group-title="News",Jai Maharashtra
+https://yuppmumfta1.vgcdn.net/fta/jaimaharashtra/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/NDTV_Marathi.jpg" group-title="News",ND TV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" group-title="News",News18 Marathi
-https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_108035_mar=108000-video=2297600.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_mar=98800-video=1272000.m3u8
 #EXTINF:0 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg" group-title="News",Zee 24 Taas
 #plugin://plugin.video.youtube/play/?video_id=80Q3UDSQLeA
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
@@ -45,7 +45,7 @@ https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 #EXTINF:0 tvg-logo="https://bharat.republicworld.com/assets/images/rbharat-logo.jpg" group-title="News",Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:0 tvg-logo="https://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="News",DD News
-plugin://plugin.video.youtube/play/?video_id=TxoAYWg64Ao
+plugin://plugin.video.youtube/play/?video_id=qD6GkaU2lD0
 #EXTINF:0 tvg-logo="https://hindi.news24online.com/wp-content/uploads/2022/07/logo.png" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="News",Khabrain Abhi Tak
